@@ -6,8 +6,8 @@ export default function Navbar() {
             thisismycareerway
           </a>
           <div className="flex gap-6">
-            <a href="/blog" className="text-sm text-gray-500 hover:text-gray-900">Yazılar</a>
-            <a href="/hakkinda" className="text-sm text-gray-500 hover:text-gray-900">Hakkında</a>
+            <a href="/blog" className="text-sm text-gray-500 hover:text-gray-900">Posts</a>
+            <a href="/hakkinda" className="text-sm text-gray-500 hover:text-gray-900">About</a>
           </div>
         </div>
       </nav>
